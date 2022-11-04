@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../",
+			"name": "BuberDinner"
+		},
+		{
+			"path": "../BuberDinner.Api",
+			"name": "Api"
+		},
+		{
+			"path": "../BuberDinner.Application",
+			"name": "Application"
+		},
+		{
+			"path": "../BuberDinner.Contracts",
+			"name": "Contracts"
+		},
+		{
+			"path": "../BuberDinner.Domain",
+			"name": "Domain"
+		},
+		{
+			"path": "../BuberDinner.Infrastructure",
+			"name": "Infrastructure",
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/bin": true,
+			"**/obj": true
+		}
+	}
+}
